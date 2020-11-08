@@ -1,5 +1,5 @@
 ### Hi there, I'm Pranaya - aka [coderqueue-PR][website] 👋
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Full Stack Web Developer , Android Developer!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
