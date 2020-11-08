@@ -36,3 +36,6 @@
 [youtube]: https://www.facebook.com/pranayarath.rath
 [instagram]: https://www.instagram.com/rathpranaya_/
 [linkedin]: https://www.linkedin.com/in/pranaya-rath-87949b194/
+
+
+<img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codersgyan&show_icons=true&hide_border=true" />
