@@ -87,7 +87,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://pranayarathpr.netlify.app/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
