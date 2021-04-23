@@ -1,5 +1,5 @@
 ### Hi there, I'm Pranaya - aka [coderqueue-PR][website] 👋
-## I'm a Student, Full Stack Web Developer , Android Developer!
+## I'm a Student, Full Stack Web Developer , Android Developer , Java Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and Developers
