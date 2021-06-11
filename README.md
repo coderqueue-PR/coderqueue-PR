@@ -5,14 +5,6 @@
 - 👯 I’m looking to collaborate with other content creators and Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### Connect with me:
-
-[<img align="left"  | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][youtube]
-[<img align="left"  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left"  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Technical Skills and Tools:
 
